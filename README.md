@@ -1,5 +1,10 @@
 # Uber Fare Prediction — Spatial-Temporal ML
 ---
+## Live Demo
+
+👉 Try the app here:  
+[https://your-streamlit-app-link.streamlit.app](https://uberfareprediction-advspa7g85b3quccctetu.streamlit.app/)
+---
 
 ## Visual Results
 
