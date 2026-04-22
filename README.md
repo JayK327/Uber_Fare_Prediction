@@ -3,7 +3,7 @@
 ## Live Demo
 
 👉 Try the app here:  
-[https://your-streamlit-app-link.streamlit.app](https://uberfareprediction-advspa7g85b3quccctetu.streamlit.app/)
+[https://my-streamlit-app-link.streamlit.app](https://uberfareprediction-advspa7g85b3quccctetu.streamlit.app/)
 ---
 
 ## Visual Results
