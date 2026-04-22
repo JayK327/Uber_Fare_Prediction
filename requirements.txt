@@ -7,3 +7,4 @@ matplotlib
 seaborn
 joblib
 ipykernel
+plotly==5.22.0
