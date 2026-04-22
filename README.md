@@ -1,9 +1,8 @@
 # Uber Fare Prediction — Spatial-Temporal ML
 ---
 ## Live Demo
-
-👉 Try the app here:  
-[https://my-streamlit-app-link.streamlit.app](https://uberfareprediction-advspa7g85b3quccctetu.streamlit.app/)
+<sub>👉 Try the app: <a href="https://uberfareprediction-advspa7g85b3quccctetu.streamlit.app/">Uber Fare Prediction App</a></sub>
+    
 ---
 
 ## Visual Results
@@ -59,11 +58,11 @@ LinearRegression ($2.68 RMSE) outperforms a raw-feature XGBoost ($2.82 RMSE).
 ---
 ## Streamlit APP
 
-<img src="app_images/IMG1.png" width="600"/>
+<img src="app_images/IMG1.png" width="1200" height="900"/>
 
-<img src="app_images/IMG2.png" width="600"/>
+<img src="app_images/IMG2.png" width="1200" height="900"/>
 
-<img src="app_images/IMG3.png" width="600"/>
+<img src="app_images/IMG3.png" width="1200" height="900"/>
 ----
 
 ## Quick Start
